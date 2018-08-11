@@ -1,10 +1,10 @@
 # Cripto baby steps
 
-Hi, this is some of criptography related problems and their solutions.
-It covers some of the principles of RSA, El Gamal, number theory and abstract algebra in general.
-All these problems are from the class "Números Inteiros e Criptografia RSA" from UFRJ, the teacher was Luis Menasché.
-There are some mistakes on *3.2* and *12.2*.
-**Please do not copy this as your homework.**
+Hi, this is some of criptography related problems and their solutions.  
+It covers some of the principles of RSA, El Gamal, number theory and abstract algebra in general.  
+All these problems are from the class "Números Inteiros e Criptografia RSA" from UFRJ, the teacher was Luis Menasché.  
+There are some mistakes on *3.2* and *12.2*.  
+**Please do not copy this as your homework.**  
 
 ### Prerequisites
 
@@ -12,8 +12,8 @@ You need [python 2.7](https://www.python.org/downloads/) to run this.
 
 ### Testing
 
-There is a bash script that tests the solutions, you should edit it with your information.
-In each directory there is a test case file called *exemplo.txt* and a expected output *saida.txt*.
+There is a bash script that tests the solutions, you should edit it with your information.  
+In each directory there is a test case file called *exemplo.txt* and a expected output *saida.txt*.  
 
 To run the tests you can just:
 ```
@@ -55,8 +55,8 @@ bash test.sh
 | 14.2	  | Decript El Gamal messages                                                                 |
 | 14.3	  | Baby-Step / Giant-Step Shanks algorithm to solve the discrete logarithm problem of a U(p) |
 
-*n is a natural number*
-*p is a prime number*
+*n is a natural number*  
+*p is a prime number*  
 
 ## Built With
 
